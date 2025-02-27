@@ -4,7 +4,7 @@ Executor Latency (execution) times are as follows:
 
 | The Executor | Latency Time |
 | ------------ | ------------ |
-| Apex         | ==80ms==     |
+| Apex         | 80ms         |
 | Wave         | 320ms        |
 | Awp.gg       | 360ms        |
 
